@@ -38,3 +38,10 @@ main > section img {
     padding: 9px 23px;
     text-transform: uppercase;
 }
+
+#detalhes-container {
+    font-weight: bold;
+    list-style-type: none;
+    height: 30 px;
+    width: 40%;
+}
