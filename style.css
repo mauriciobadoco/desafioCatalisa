@@ -43,6 +43,14 @@ main > section img {
     font-weight: bold;
     list-style-type: none;
     height: 30 px;
-    width: 40%;
+    width: 90%;
 }
 
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container > li p {
+    color: #00008B;
+}
